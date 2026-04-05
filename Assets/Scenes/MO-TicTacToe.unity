@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1676098085049743795, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Name
-      value: CellButton (2)
+      value: CellButton5
       objectReference: {fileID: 0}
     - target: {fileID: 6743781593542273124, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Pivot.x
@@ -560,7 +560,7 @@ GameObject:
   - component: {fileID: 716369168}
   - component: {fileID: 716369167}
   m_Layer: 5
-  m_Name: Row
+  m_Name: Row0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -662,7 +662,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1676098085049743795, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Name
-      value: CellButton (2)
+      value: CellButton8
       objectReference: {fileID: 0}
     - target: {fileID: 6743781593542273124, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Pivot.x
@@ -764,7 +764,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1676098085049743795, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Name
-      value: CellButton (1)
+      value: CellButton4
       objectReference: {fileID: 0}
     - target: {fileID: 6743781593542273124, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Pivot.x
@@ -960,7 +960,7 @@ GameObject:
   - component: {fileID: 1722633404}
   - component: {fileID: 1722633403}
   m_Layer: 5
-  m_Name: Row (2)
+  m_Name: Row2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1062,7 +1062,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1676098085049743795, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Name
-      value: CellButton (1)
+      value: CellButton1
       objectReference: {fileID: 0}
     - target: {fileID: 6743781593542273124, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Pivot.x
@@ -1164,7 +1164,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1676098085049743795, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Name
-      value: CellButton (2)
+      value: CellButton2
       objectReference: {fileID: 0}
     - target: {fileID: 6743781593542273124, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Pivot.x
@@ -1369,7 +1369,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1676098085049743795, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Name
-      value: CellButton (1)
+      value: CellButton7
       objectReference: {fileID: 0}
     - target: {fileID: 6743781593542273124, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Pivot.x
@@ -1471,7 +1471,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1676098085049743795, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Name
-      value: CellButton
+      value: CellButton3
       objectReference: {fileID: 0}
     - target: {fileID: 6743781593542273124, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Pivot.x
@@ -1652,7 +1652,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1676098085049743795, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Name
-      value: CellButton
+      value: CellButton6
       objectReference: {fileID: 0}
     - target: {fileID: 6743781593542273124, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Pivot.x
@@ -1757,7 +1757,7 @@ GameObject:
   - component: {fileID: 2087816462}
   - component: {fileID: 2087816461}
   m_Layer: 5
-  m_Name: Row (1)
+  m_Name: Row1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1864,7 +1864,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1676098085049743795, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Name
-      value: CellButton
+      value: CellButton0
       objectReference: {fileID: 0}
     - target: {fileID: 6743781593542273124, guid: 5f0da1ab6b54340d7b80203a6d96db45, type: 3}
       propertyPath: m_Pivot.x
